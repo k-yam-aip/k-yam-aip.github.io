@@ -1,7 +1,5 @@
 ## Publications
 
-----
-
 ### International Conferences
 - Masaki Sakata, Benjamin Heinzerling, Sho Yokoi, Takumi Ito & Kentaro Inui. On Entity Identification in Language Models. In Findings of the 63rd Annual Meeting of the Association for Computational Linguistics. (ACL2025 Findings), pp.-, July 2025.
 - Yuko Tanaka, Hiromi Arai, Miwa Inuzuka, Yoichi Takahashi, Minao Kukita, Ryuta Iseki & Kentaro Inui. Beyond Click to Cognition: Effective Interventions for Promoting Examination of False Beliefs in Misinformation. Proceedings of the 2025 CHI Conference on Human Factors in Computing Systems (CHI ’25), 961. p.1-18, April 2025.

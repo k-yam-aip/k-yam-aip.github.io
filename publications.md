@@ -1,0 +1,307 @@
+## Publications
+
+----
+
+### International Conferences
+
+- Masaki Sakata, Benjamin Heinzerling, Sho Yokoi, Takumi Ito & Kentaro Inui. On Entity Identification in Language Models. In Findings of the 63rd Annual Meeting of the Association for Computational Linguistics. (ACL2025 Findings), pp.-, July 2025.
+- Yuko Tanaka, Hiromi Arai, Miwa Inuzuka, Yoichi Takahashi, Minao Kukita, Ryuta Iseki & Kentaro Inui. Beyond Click to Cognition: Effective Interventions for Promoting Examination of False Beliefs in Misinformation. Proceedings of the 2025 CHI Conference on Human Factors in Computing Systems (CHI '25), 961. p.1-18, April 2025.
+- Steven Coyne, Diana Galvan-Sosa, Ryan Spring, Camélia Guerraoui, Michael Zock, Keisuke Sakaguchi, and Kentaro Inui. Annotating Errors in English Learners' Written Language Production: Advancing Automated Written Feedback Systems. The 26th International Conference on Artificial Intelligence in Education (AIED 2025), pp. -, July 2025.
+- Go Kamoda, Heinzerling Benjamin, Tatsuro Inaba, Keito Kudo, Keisuke Sakaguchi, Kentaro Inui. Weight-based Analysis of Detokenization in Language Models: Understanding the First Stage of Inference Without Inference. In Findings of the Association for Computational Linguistics: NAACL 2025. ** pages, April 2025.
+- Ahmed Oumar El-Shangiti, Tatsuya Hiraoka, Hilal AlQuabeh, Benjamin Heinzerling, Kentaro Inui.The Geometry of Numerical Reasoning: Language Models Compare Numeric Properties in Linear SubspacesIn Findings of the Association for Computational Linguistics: NAACL 2025. ** pages, April 2025.
+- Tatsuya Hiraoka, Kentaro Inui.Repetition Neurons: How Do Language Models Produce Repetitions?In Findings of the Association for Computational Linguistics: NAACL 2025. ** pages, April 2025.
+- Yunmeng Li, Jun Suzuki, Makoto Morishita, Kaori Abe and Kentaro Inui.MQM-Chat: Multidimensional Quality Metrics for Chat Translation.In Proceedings of the 31st International Conference on Computational Linguistics (COLING 2025), pp.–, January 2025.
+- Yoichi Aoki, Keito Kudo, Tatsuki Kuribayashi, Shusaku Sone, Masaya Taniguchi, Keisuke Sakaguchi, Kentaro Inui. First Heuristic Then Rational: Dynamic Use of Heuristics in Language Model Reasoning. In Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing (EMNLP 2024), pp.14255–14271, November 2024
+- Qin Dai, Benjamin Heinzerling and Kentaro Inui.Representational Analysis of Binding in Language Models.In Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing (EMNLP 2024), pp.17468-17493, November 2024
+- Irfan Robbani, Paul Reisert, Surawat Pothong, Naoya Inoue, Camélia Guerraoui, Wenzhi Wang, Shoichi Naito, Jungmin Choi, Kentaro Inui. Flee the Flaw: Annotating the Underlying Logic of Fallacious Arguments Through Templates and Slot-filling. In Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing (EMNLP 2024),pp.20524-20540, November 2024.
+- Shoichi Naito*, Wenzhi Wang*, Paul Reisert, Naoya Inoue, Camélia Guerraoui, Kenshi Yamaguchi, Jungmin Choi, Irfan Robbani, Surawat Pothong, Kentaro Inui (*equal contribution). Designing Logic Pattern Templates for Counter-Argument Logical Structure Analysis. In Findings of the 2024 Conference on Empirical Methods in Natural Language Processing (EMNLP 2024 Findings), pp.11313-11331,November 2024.
+- Benjamin Heinzerling, Kentaro Inui. Monotonic Representation of Numeric Attributes in Language Models. Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (Volume 2: Short Papers). August 2024.
+- Haruto Yoshida, Keito Kudo, Yoichi Aoki, Ryota Tanaka, Itsumi Saito, Keisuke Sakaguchi, Kentaro Inui. How Well Do Vision Models Encode Diagram Attributes?. Non-archival submission for ACL Student Research Workshop (ACL-SRW 2024) August 2024.
+- Shiki Sato, Reina Akama, Jun Suzuki, Kentaro Inui.A Large Collection of Model-generated Contradictory Responses for Consistency-aware Dialogue Systems.In Findings of the 2024 Conference on Empirical Methods in Natural Language Processing (ACL 2024 Findings), pp.16047-16062,August 2024.
+- Ana Brassard, Benjamin Heinzerling, Keito Kudo, Keisuke Sakaguchi, Kentaro Inui. ACORN: Aspect-wise Commonsense Reasoning Explanation Evaluation. Conference on Language Modeling (COLM 2024), October 2024.
+- Momoka Furuhashi, Hiroaki Funayama, Yuya Iwase, Yuichiroh Matsubayashi, Yoriko Isobe, Toru Nagahama, Saku Sugawara, Kentaro Inui. Automatic feedback generation for short answer questions using answer diagnostic graphs. the 16th annual International Conference on Education and New Learning Technologies.(EDULEARN2024), pp. 6706-6716, July 2024.
+- Yuya Asazuma, Hiroaki Funayama, Yuichiroh Matsubayashi, Tomoya Mizumoto, Paul Reisert, Kentaro Inui. Take No Shortcuts! Stick to the Rubric: A Method for Building Trustworthy Short Answer Scoring Models. The 5th International Conference on Higher Education Learning Methodologies and Technologies Online (HELMeTO 2023), September 2023.
+- Kosuke Matsuzaki, Masaya Taniguchi, Kentaro Inui, Keisuke Sakaguchi. J-UniMorph: Japanese Morphological Annotation through the Universal Feature Schema. 21st SIGMORPHON Workshop on Computational Research in Phonetics, Phonology, and Morphology, pp. 7–19, June 2024.
+- Yunmeng Li, Jun Suzuki, Makoto Morishita, Kaori Abe, and Kentaro Inui. 2023. An Investigation of Warning Erroneous Chat Translations in Cross-lingual Communication. In Proceedings of the 13th International Joint Conference on Natural Language Processing and the 3rd Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics: Student Research Workshop (IJCNLP-AACL 2023 SRW), pp. 10–16, November 2023.
+- Yukiko Ishizuki, Tatsuki Kuribayashi, Yuichiroh Matsubayashi, Ryohei Sasano, Kentaro Inui. To Drop or Not to Drop? Predicting Argument Ellipsis Judgments: A Case Study in Japanese. In Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024), pp.16198-16210, May 2024.
+- Goro Kobayashi, Tatsuki Kuribayashi, Sho Yokoi, Kentaro Inui. Analyzing Feed-Forward Blocks in Transformers through the Lens of Attention Maps. In Proceedings for the 12th International Conference on Learning Representations (ICLR 2024), Spotlight Presentation, May 2024.
+- Naoki Miura, Hiroaki Funayama, Seiya Kikuchi, Yuichiroh Matsubayashi, Yuya Iwase, Kentaro Inui. Japanese-English Sentence Translation Exercises Dataset for Automatic Grading. In Proceedings of the 18th Conference of the European Chapter of the Association for Computational Linguistics Student Research Workshop (EACL-SRW 2024), pp.266–278, March 2024.
+- Takumi Ito, Naomi Yamashita, Tatsuki Kuribayashi, Masatoshi Hidaka, Jun Suzuki, Ge Gao, Jack Jamieson, Kentaro Inui. Use of an AI-powered Rewriting Support Software in Context with Other Tools: A Study of Non-Native English Speakers. In Proceedings of the 36th Annual ACM Symposium on User Interface Software and Technology (UIST2023), No. 45, pp. 1–13, October 2023.
+- Jungo Kasai, Keisuke Sakaguchi, Yoichi Takahashi, Ronan Le Bras, Akari Asai, Xinyan Velocity Yu, Dragomir Radev, Noah A. Smith, Yejin Choi, and Kentaro Inui. RealTime QA: What's the Answer Right Now? Thirty-seventh Conference on Neural Information Processing Systems Datasets and Benchmarks Track, December 2023
+- Ikumi Ito, Takumi Ito, Jun Suzuki and Kentaro Inui. Investigating the Effectiveness of Multiple Expert Models Collaboration. In Findings of the 2023 Conference on Empirical Methods in Natural Language Processing (EMNLP2023 Findings), pp.14393–14404, December 2023.
+- Go Kamoda, Benjamin Heinzerling, Keisuke Sakaguchi, and Kentaro Inui. 2023. Test-time Augmentation for Factual Probing. In Findings of the Association for Computational Linguistics: EMNLP 2023, pages 3650–3661, Singapore. Association for Computational Linguistics.
+- Hiroto Kurita, Goro Kobayashi, Sho Yokoi and Kentaro Inui. Contrastive Learning-based Sentence Encoders Implicitly Weight Informative Words. In Findings of the 2023 Conference on Empirical Methods in Natural Language Processing (EMNLP2023 Findings), pp10932-10947,December 2023.
+- Mengyu Ye, Tatsuki Kuribayashi, Jun Suzuki, Goro Kobayashi, and Hiroaki Funayama. Assessing Step-by-Step Reasoning against Lexical Negation: A Case Study on Syllogism. In Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing (EMNLP 2023), pages 14753-14773, December 2023.
+- Camelia Guerraoui, Paul Reisert, Naoya Inoue, Farjana Sultana Mim, Keshav Singh, Jungmin Choi, Irfan Robbani, Shoichi Naito, Wenzhi Wang and Kentaro Inui. Teach Me How to Argue: A Survey on NLP Feedback Systems in Argumentation. In Proceedings of the 10th Workshop on Argument Mining (ArgMining 2023), pages 19–34, December 2023.
+- Tanaka, Y., Arai, H., Inuzuka, M., Takahashi, Y., Kukita, M., & Inui, K. Fight Bias with Bias? Two Interventions for Mitigating the Selective Avoidance of Clicking Uncongenial Facts. Proceedings of the Annual Meeting of the Cognitive Science Society, 45. p.2304-2310, July 2023
+- Haruki Nagasawa, Benjamin Heinzerling, Kazuma Kokuta and Kentaro Inui. Can LMs Store and Retrieve 1-to-N Relational Knowledge? Archival submission for the ACL Student Research Workshop (ACL-SRW 2023), pp. 130-138, July 2023.
+- Mengyu Ye, Tatsuki Kuribayashi, Jun Suzuki, Hiroaki Funayama and Goro Kobayashi. Assessing Chain-of-Thought Reasoning against Lexical Negation: A Case Study on Syllogism. Non-archival submission for the ACL Student Research Workshop (ACL-SRW 2023), July 2023.
+- Masaki Sakata, Sho Yokoi, Benjamin Heinzerling and Kentaro Inui. Geometric Locality of Entity Embeddings in Masked Language Models. Non-archival submission for the ACL Student Research Workshop (ACL-SRW 2023), July 2023.
+- Hiroaki Funayama , Yuya Asazuma, Yuichiroh Matsubayashi, Tomoya Mizumoto, Jun Suzuki and Kentaro Inui. Reducing the Cost: Cross-Prompt Pre-Finetuning for Short Answer Scoring. The 24th International Conference on Artificial Intelligence in Education (AIED2023), To be appear, pp.78-89, July 2023.
+- Goro Kobayashi, Tatsuki Kuribayashi, Sho Yokoi and Kentaro Inui. Transformer Language Models Handle Word Frequency in Prediction Head. In Findings of the 61st Annual Meeting of the Association for Computational Linguistics (ACL2023 Findings), pp.4523-4535, July 2023.
+- Hiroto Kurita*, Ikumi Ito*, Hiroaki Funayama, Shota Sasaki, Shoji Moriya, Ye Mengyu, Kazuma Kokuta, Ryujin Hatakeyama, Shusaku Sone and Kentaro Inui (*equal contributions). TohokuNLP at SemEval-2023 Task 5: Clickbait Spoiling via Simple Seq2seq Generation and Ensembling. In Proceedings of the 17th International Workshop on Semantic Evaluation (SemEval), pp. 1756–1762, July 2023.
+- Keito Kudo, Yoichi Aoki, Tatsuki Kuribayashi, Ana Brassard, Masashi Yoshikawa, Keisuke Sakaguchi and Kentaro Inui. Do Deep Neural Networks Capture Compositionality in Arithmetic Reasoning? In Proceedings of the 17th Conference of the European Chapter of the Association for Computational Linguistics (EACL2023), pp.1343-1354, May 2023.
+- Yoichi Aoki, Keito Kudo, Tatsuki Kuribayashi, Ana Brassard, Masashi Yoshikawa, Keisuke Sakaguchi and Kentaro Inui. Empirical Investigation of Neural Symbolic Reasoning Strategies. In Findings of the 17th Conference of the European Chapter of the Association for Computational Linguistics (EACL2023 Findings), pp.1124-1132, May 2023.
+- Pride Kavumba, Ana Brassard, Benjamin Heinzerling and Kentaro Inui. Prompting for explanations improves Adversarial NLI. Is this true? {Yes} it is {true} because {it weakens superficial cues}. To appear In Proceedings of the 17th Conference of the European Chapter of the Association for Computational Linguistics (EACL2023), pp. 2165-2180, May 2023.
+- Yuko Tanaka, Miwa Inuzuka, Hiromi Arai, Yoichi Takahashi, Minao Kukita and Kentaro Inui. Who Does Not Benefit from Fact-Checking Websites? A Psychological Characteristic Predicts the Selective Avoidance of Clicking Uncongenial Facts. In Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems (CHI 2023), pp.1-17, April 2023.
+- Yuta Matsumoto, Benjamin Heinzerling, Masashi Yoshikawa and Kentaro Inui. Tracing and Manipulating Intermediate Values in Neural Math Problem Solvers. In The 1st Workshop on Mathematical Natural Language Processing (MathNLP 2022), pp. 1-6, Dec 2022
+- Yuta Matsumoto, Benjamin Heinzerling, Masashi Yoshikawa and Kentaro Inui. Tracing and Manipulating Intermediate Results in Neural Math Problem Solvers. In Proceedings of the Fifth BlackboxNLP Workshop on Analyzing and Interpreting Neural Networks for NLP, pp.1–6, Dec 2022.
+- Qin Dai*, Benjamin Heinzerling*, Kentaro Inui (*equal contributions). Cross-stitching Text and Knowledge Graph Encoders for Distantly Supervised Relation Extraction. In Proceedings of the 2022 Conference on Empirical Methods in Natural Language Processing (EMNLP 2022), pp.6947–6958, Dec 2022.
+- Tatsuki Kuribayashi, Yohei Oseki, Ana Brassard, Kentaro Inui. Context Limitations Make Neural Language Models More Human-Like. In Proceedings of the 2022 Conference on Empirical Methods in Natural Language Processing (EMNLP 2022), pp.10421–10436, Dec 2022.
+- Yunmeng Li, Jun Suzuki, Makoto Morishita, Kaori Abe, Ryoko Tokuhisa, Ana Brassard, Kentaro Inui. Chat Translation Error Detection for Assisting Cross-lingual Communications. In Proceedings of the 3rd Workshop on Evaluation & Comparison of NLP Systems (Eval4NLP 2022), pp.88–95, Nov 2022.
+- Yoichi Aoki, Keito Kudo, Tatsuki Kuribayashi, Ana Brassard, Masashi Yoshikawa, Keisuke Sakaguchi and Kentaro Inui. Empirical Investigation of Neural Symbolic Reasoning Strategies. Non-archival submission for the 2022 AACL-IJCNLP Student Research Workshop (AACL-IJCNLP SRW 2022, Non-archival),pp.1154-1162, Nov 2022.
+- Yuta Matsumoto, Benjamin Heinzerling, Masashi Yoshikawa and Kentaro Inui. Tracing and Manipulating Intermediate Results in Neural Math Problem Solvers. In Proceedings of the 2022 Conference on AACL-IJCNLP Student Research Workshop (AACL-IJCNLP SRW 2022) , pp.1-6.Nov 2022.
+- Kaori Abe, Yokoi Sho, Tomoyuki Kajiwara, Kentaro Inui. Why is sentence similarity benchmark not predictive of application-oriented task performance? In Proceedings of the 3rd Workshop on Evaluation & Comparison of NLP Systems (Eval4NLP 2022), pp.70-87, Nov 2022.
+- Yosuke Kishinami, Reina Akama, Shiki Sato, Ryoko Tokuhisa, Jun Suzuki and Kentaro Inui. Target-Guided Open-Domain Conversation Planning. In Proceedings of the 29th International Conference on Computational Linguistics (COLING 2022), pp.660–668, Oct 2022.
+- Riki Fujihara, Tatsuki Kuribayashi, Kaori Abe, Ryoko Tokuhisa, Kentaro Inui. Topicalization in Language Models A Case Study on Japanese. In Proceedings of the 29th International Conference on Computational Linguistics (COLING 2022), pp.851–862, Oct 2022.
+- Shuhei Kurita, Hiroki Ouchi, Kentaro Inui and Satoshi Sekine, Iterative Span Selection: Self-Emergence of Resolving Orders in Semantic Role Labeling. In Proceedings of the 29th International Conference onComputational Linguistics (COLING 2022), pp.5383–5397, Oct 2022.
+- Jungmin Choi, Ukyo Honda, Taro Watanabe, Kentaro Inui, Hiroki Ouchi, Law Retrieval with Supervised Contrastive Learning Using the Hierarchical Structure of Law, In Proceeding of the 36th Pacific Asia Conference on Language, Information and Computation (PACLIC 2022). Oct 2022.
+- Shiki Sato, Reina Akama, Hiroki Ouchi, Ryoko Tokuhisa, Jun Suzuki and Kentaro Inui. N-best Response-based Analysis of Contradiction-awareness in Neural Response Generation Models. In Proceedings of the 23rd Annual Meeting of the Special Interest Group on Discourse and Dialogue (SIGDIAL 2022), pp.637-644, Sep 2022.
+- Hiroaki Funayama, Tasuku Sato, Yuichiroh Matsubayashi, Tomoya Mizumoto, Jun Suzuki and Kentaro Inui. Balancing Cost and Quality: An Exploration of Human-in-the-loop Frameworks for Automated Short Answer Scoring. In Proceedings of the 23rd International Conference on Artificial Intelligence in Education (AIED2022), pp.465-476,July 2022.
+- Tasuku Sato, Hiroaki Funayama, Kazuaki Hanawa and Kentaro Inui. Generating Feature Attribution-based Explanations for Automated Short Answer Scoring. In Proceedings of the 23rd International Conference on Artificial Intelligence in Education (AIED2022), pp.231-242,July 2022.
+- Sosuke Kobayashi, Shun Kiyono, Jun Suzuki, Kentaro Inui. Diverse Lottery Tickets Boost Ensemble from a Single Pretrained Model. In Proceedings of the Workshop of Challenges & Perspectives in Creating Large Language Models (BigScience), pp.42–50, May 2022.
+- Shoichi Naito, Shintaro Sawada, Chihiro Nakagawa, Naoya Inoue, Kenshi Yamaguchi, Iori Shimizu, Farjana Sultana Mim, Keshav Singh and Kentaro Inui. TYPIC: A Corpus of Template-Based Diagnostic Comments on Argumentation. In Proceedings of the 13th International Conference on the Language Resources and Evaluation Conference (LREC 2022), pp.5916–5928, Jun 2022.
+- Farjana Sultana Mim, Naoya Inoue, Shoichi Naito, Keshav Singh and Kentaro Inui. LPAttack: A Feasible Annotation Scheme for Capturing Logic Pattern of Attacks in Arguments. In Proceedings of the 13th International Conference on the Language Resources and Evaluation Conference (LREC 2022), pp. 2446–2459, June 2022.
+- Ana Brassard, Benjamin Heinzerling, Pride Kavumba and Kentaro Inui. COPA-SSE: Semi-structured Explanations for Commonsense Reasoning. In Proceedings of the 13th International Conference on the Language Resources and Evaluation Conference (LREC 2022), pp.3994-4000, Jun 2022.
+- Keshav Singh, Naoya Inoue, Farjana Sultana Mim, Shoichi Naito and Kentaro Inui. IRAC: A Domain-specific Annotated Corpus of Implicit Reasoning in Arguments. In Proceedings of the 13th International Conference on the Language Resources and Evaluation Conference (LREC 2022), pp.4674–4683, Jun 2022.
+
+### Journal Papers
+
+- 成田風香，佐藤志貴，徳久良子，乾健太郎. 感想付きニュース雑談コーパスの構築と評価. 自然言語処理, Vol.31, No.3, pp.1015-1048, September 2024.
+- 浅妻佑弥, 塙一晃, 乾健太郎. 特徴量帰属法による説明の忠実性評価に関する実証的分析. 人工知能学会論文誌, 38巻 6号 p. C-N22_1-9, November 2023.
+- Shoji Moriya*, Daiki Shiono*, Riki Fujihara, Yosuke Kishinami, Subaru Kimura, Shusaku Sone, Reina Akama, Yuta Matsumoto, Jun Suzuki, Kentaro Inui (*equal contributions). Aoba_v3 bot: A Multimodal Chatbot System Combining Rules and Various Response Generation Models. Advanced Robotics, Vol. 37, Issue 21, Nov 2023.
+- 乾健太郎, 石井雄隆, 松林優一郞, 井之上直也, 内藤昭一, 磯部順子, 舟山弘晃, 菊地正弥. 自然言語処理×教育における説明能力 ―説明できるライティング評価技術への新しい展開―. 電子情報通信学会 基礎・境界ソサイエティ Fundamentals Review, Vol.16, No.4, pp.289-300, April 2023.
+- Qin Dai, Benjamin Heinzerling, Naoya Inoue and Kentaro Inui. Universal Graph based Distantly Supervised Relation Extraction. Journal of Natural Language Processing, Vol. 29, No. 4, pp.1138-1164, December 2022.
+- 佐々木健太， 鈴木健一， 君島朋子， 吉川将司， 乾健太郎. 大学・大学院におけるレポート採点支援システムの開発. 情報処理学会論文誌教育とコンピュータ (TCE), Vol.8, No.3, pp.35-49, October 2022.
+- Kazuaki Hanawa, Ryo Nagata, Kentaro Inui. Analyzing Methods for Generating Feedback Comments for Language Learners. Journal of Natural Language Processing, Vol.29, No.3, pp.901-924, September 2022.
+- 佐藤志貴, 赤間怜奈, 大内啓樹, 鈴木潤, 乾健太郎. 負例を厳選した対話応答選択による対話応答生成システムの評価. 自然言語処理, Vol.29, No.1, pp.53-83, March 2022.
+- Sumi Kato, Kazuaki Hanawa, Vo Phuong Linh, Manabu Saito, Ryuichi Iimura, Kentaro Inui, Kazuhiko Nakamura. Toward mapping pragmatic impairment of autism spectrum disorder individuals through the development of a corpus of spoken Japanese Authors. Plos one, Vol. 17, No. 2, Fabruary 2022.
+- Hiroki Ouchi, Jun Suzuki, Sosuke Kobayashi, Sho Yokoi, Tatsuki Kuribayashi, Masashi Yoshikawa, Kentaro Inui. Instance-Based Neural Dependency Parsing. Transactions of the Association for Computational Linguistics (2021), Vol.9, pp1493–1507, December 2021.
+- 小林颯介, 横井祥, 鈴木潤, 乾健太郎. 訓練事例の影響の軽量な推定. 自然言語処理, Vol.28, No.2, pp.573-597, June 2021.
+- 藤井諒, 三田雅人, 阿部香央莉, 塙一晃, 森下睦, 鈴木潤, 乾健太郎. 機械翻訳モデルの頑健性評価に向けた言語現象毎データセットの構築と分析. 自然言語処理, Vol.28, No.2, pp.450-478, June 2021.
+- Tianqi Wang, Hiroki Ouchi, Hiroaki Funayama and Kentaro Inui. Data Augmentation by Rubrics for Short Answer Grading. The Association for Natural Language Processing, Vol.28, No.1, pp.183-205, March 2021.
+- 三田雅人, 水本智也, 金子正弘, 永田亮, 乾健太郎. 文法誤り訂正モデルの横断評価. 自然言語処理, Vol.28, No.1, pp.160-182, March 2021.
+- 鈴木正敏, 松田耕史, 大内啓樹, 鈴木潤, 乾健太郎. データ指向型アプローチによるクローズドブック質問応答. 自然言語処理, Volume 28, Number 1, pp.3-25, March 2021. (DOI: 10.5715/jnlp.28.3)
+- 栗林樹生, 大内啓樹, 井之上直也. 鈴木潤, Paul Reisert, 三好利昇, 乾健太郎. 論述構造解析におけるスパン分散表現. 自然言語処理, Volume 27, Number 4, pp.753-780, December 2020.
+- Kaori Abe, Yuichiroh Matsubayashi, Naoaki Okazaki and Kentaro Inui. Multi-dialect Neural Machine Translation for 48 Low-resource Japanese Dialects. 自然言語処理, Volume 27, Number 4, pp.781-800, December 2020.
+- Takumi Ito, Tatsuki Kuribayashi, Hayato Kobayashi, Ana Brassard, Masato Hagiwara, Jun Suzuki, Kentaro Inui. Assisting Authors to Convert Raw Products into Polished Prose. Journal of Cognitive Science, Vol.21, No.1, pp.101-137, 2020
+- Diana Galvan-Sosa, Koji Matsuda, Naoaki Okazaki and Kentaro Inui. An empirical exploration of the challenges in temporal relation extraction from clinical text. Journal of Natural Language Processing, Vol.27 No.2, pp.383-409, June 2020.
+- 赤間怜奈, 徳久良子, 乾健太郎. Quality of Life情報の伝達補助を目的とする対話応答候補生成. 自然言語処理, Volume 26, Number 3, pp.579-612, September 2019.
+- Tadahiro Taniguchi, Daichi Mochihashi, Takayuki Nagai, Satoru Uchida, Naoya Inoue, Ichiro Kobayashi, Tomoaki Nakamura, Yoshinobu Hagiwara, Naoto Iwahashi, Tetsunari Inamura. Survey on Frontiers of Language and Robotics. Advanced Robotics, Vol. 33, No 12, pp.700-730, June 2019.
+- Kazuaki Hanawa, Akira Sasaki, Naoaki Okazaki, and Kentaro Inui. Stance Detection Attending External Knowledge from Wikipedia. Journal of Information Processing, Vol. 27, pp.499–506, 2019. (DOI: 10.2197/ipsjjip.27.499)
+- 徳久良子, 寺嶌立太, 乾健太郎. 高齢者と家族とのコミュニケーションの質の向上に向けて: 高齢者のQuality of Life 表出発話の分析. 情報処理学会論文誌, Vol.60, No.2, pp.716-726, February 2019.
+- 浅野広樹, 水本智也, 乾健太郎. 文法性・流暢性・意味保存性に基づく文法誤り訂正の参照無し評価. 自然言語処理, Vol.25, No.5, pp.555-576, December 2018.
+- Qin Dai, Naoya Inoue, Paul Reisert, and Kentaro Inui. Leveraging Unannotated Texts for Scientific Relation Extraction. In IEICE Transactions on Information and Systems, Vol. E101-D, No. 12, pp.3209-3217, December 2018.
+- Masatoshi Suzuki, Koji Matsuda, Satoshi Sekine, Naoaki Okazaki and Kentaro Inui. A Joint Neural Model for Fine-Grained Named Entity Classification of Wikipedia Articles. IEICE Transactions on Information and Systems, Vol. E101-D, No.1, pp.73-81, January 2018. (DOI: 10.1587/transinf.2017SWP0005)
+- Kento Watanabe, Yuichiroh Matsubayashi, Kentaro Inui, Satoru Fukayama, Tomoyasu Nakano, and Masataka Goto. Modeling Storylines in Lyrics. IEICE Transactions on Information and Systems. Vol.E101-D,No.4, 13 pages, 2017. (DOI: 10.1587/transinf.2017EDP7188)
+- 高瀬翔, 岡崎直観, 乾健太郎. 関係パタンの分散表現の計算. 人工知能学会論文誌, Vol.32, No.4, pp. D-G96_1-11, 2017. (DOI: 10.1527/tjsai.D-G96)
+- Ran Tian, Naoaki Okazaki, Kentaro Inui. The Mechanism of Additive Composition. Machine Learning, Vol. 106, Issue 7, pp 1083–1130, 2017. (DOI: 10.1007/s10994-017-5634-8)
+- Naoko Kosaka, Akira Koyama, Tomohiro Kokogawa, Yuji Maeda, Hiroko Koumoto, Shingo Suzuki, Takeshi Yamaguchi and Kentaro Inui. Disaster Information System Using Natural Language Processing. Journal of Disaster Research, Vol.12, No.1, pp.67-78, 2017. (DOI: 10.20965/jdr.2017.p0067)
+- Shuangshuang Zhou, Naoaki Okazaki, Koji Matsuda, Ran Tian and Kentaro Inui. Supervised Approaches for Japanese Wikification. Journal of Information Processing Vol. 25, pp. 341-350, April 2017. (DOI: 10.2197/ipsjjip.25.341)
+- Koji Matsuda, Akira Sasaki, Naoaki Okazaki and Kentato Inui. Geographical Entity Annotated Corpus of Japanese Microblogs. Journal of Information Processing Vol. 25, pp.121-130, January 2017. (DOI: 10.2197/ipsjjip.25.121)
+- Ryo Takahashi, Naoya Inoue, Yasutaka Kuriya, Sosuke Kobayashi and Kentaro Inui. Explaining Potential Risks in Traffic Scenes by Combining Logical Inference and Physics Simulation. International Journal of Machine Learning and Computing (IJMLC), Vol. 6, No. 5, pp. 248-255, October 2016. (DOI: 10.18178/ijmlc.2016.6.5.606)
+- 山本風人, 井之上直也, 乾健太郎. 機能的なリテラルを含む公理体系における仮説推論の効率化. 自然言語処理 Vol.23, No.3, pp.267-298, June 2016. (DOI: 10.5715/jnlp.23.267)
+- Sho Takase, Naoaki Okazaki and Kentaro Inui. Modeling semantic compositionality of relational patterns. Engineering Applications of Artificial Intelligence, vol. 50, pp.256-264, April 2016. (DOI:10.1016/j.engappai.2016.01.027)
+- 松林優一郎, 中山周, 乾健太郎. 日本語述語項構造解析タスクにおける項の省略を伴う事例の分析. 自然言語処理 Vol.22, No.5, pp.433-461, December 2015. (DOI: 10.5715/jnlp.22.433)
+- 成田和弥, 水野淳太, 上岡裕大, 菅野美和, 乾健太郎. 誤り分析に基づく日本語事実性解析の課題抽出. 自然言語処理, Vol.22, No.5, pp.392-432, December 2015.
+- Kentaro Inui, Yotaro Watanabe, Kenshi Yamaguchi, Shingo Suzuki, Hiroko Koumoto, Naoko Kosaka, Akira Koyama, Tomohiro Kokogawa, and Yuji Maeda. Computer-assisted databasing of disaster management information through natural language processing. Journal of Disaster Research, Vol.10, No.5, pp.830-844, October 2015. (doi: 10.20965/jdr.2015.p0830)
+- Shingo Suzuki, Kentaro Inui, Kenshi Yamaguchi, Hiroko Koumoto, Naoko Kosaka, Akira Koyama, and Yuji Maeda. Study on an online communication and task management system for disaster response utilizing natural language processing. Journal of Disaster Research, Vol.10, No.5, pp.845-856, October 2015. (DOI: 10.20965/jdr.2015.p0845)
+- 稲田和明, 松林優一郎, 乾健太郎. 日本語文書内で表現される事象間の時間的な順序関係の推定. 情報処理学会論文誌, Vol.56, No.10, pp.2054-2071, October 2015.
+- Kazeto Yamamoto, Naoya Inoue, Kentaro Inui, Yuki Arase and Jun'ichi Tsujii. Boosting the Efficiency of First-order Abductive Reasoning Using Pre-estimated Relatedness between Predicates. International Journal of Machine Learning and Computing, Vol. 5, No. 2, pp. 114-120, April 2015. (DOI: 10.7763/IJMLC.2015.V5.493)
+- 松林優一郎, 飯田龍, 笹野遼平, 横野光, 松吉俊, 藤田篤, 宮尾祐介, 乾健太郎. 日本語文章に対する述語項構造アノテーション仕様の考察. 自然言語処理, Vol.21 No.2, pp.333-378, April 2014. (DOI: 10.5715/jnlp.21.333)
+- Naoya Inoue and Kentaro Inui. ILP-based Inference for Cost-based Abduction on First-order Predicate Logic. Journal of Natural Language Processing, Vol.20, No.5, pp. 629-656, December 2013. (DOI: 10.11185/imt.9.83)
+- 高瀬翔, 岡崎直観, 乾健太郎. カテゴリ間の兄弟関係を活用した集合拡張. 自然言語処理, vol. 20, No. 2, pp.273-296, June 2013.
+- 鍋島啓太, 渡邉研斗, 水野淳太, 岡崎直観, 乾健太郎. 訂正パターンに基づく誤情報の収集と拡散状況の分析. 自然言語処理, Vol. 20, No. 3, pp.461-484, June 2013. 10.5715/jnlp.20.461
+- 大和田裕亮, 水野淳太, 岡崎直観, 乾健太郎, 石塚満. 返信・非公式リツイートに基づくツイート空間の論述構造解析. 自然言語処理, Vol. 20, No. 3, pp.423-460, June 2013. 10.5715/jnlp.20.423
+- Yotaro Watanabe, Junta Mizuno, Eric Nichols, Katsuma Narisawa, Keita Nabeshima, Naoaki Okazaki and Kentaro Inui. Leveraging Diverse Lexical Resources for Textual Entailment Recognition. ACM Transactions on Asian Language Information Processing (TALIP), Vol. 11, No. 4, pp.39:1-39:21, December 2012. 10.1145/2382593.2382600
+- 水野淳太, 渡邉陽太郎, エリック ニコルズ, 村上浩司, 乾健太郎, 松本裕治. 文間関係認識に基づく賛成・反対意見の俯瞰. 情報処理学会論文誌, Vol.52, No.12, pp.3408-3422, December 2011.
+- 岡崎直観, 辻井潤一. 集合間類似度に対する簡潔かつ高速な類似文字列検索アルゴリズム. 自然言語処理, Vol. 18, No. 2, pp. 89-118, June 2011.
+- Shuya Abe, Kentaro Inui, kazuo Hara, Hiraku Morita, Chitose Sao, Megumi Eguchi, Asuka Sumida, Koji Murakami, and Suguru Matsuyoshi. Mining personal experiences and opinions from Web documents. Web Intelligence and Agent Systems, Vol. 9, No. 2, pp. 109-121, January 2011.
+- 松吉俊, 江口萌, 佐尾ちとせ, 村上浩司, 乾健太郎, 松本裕治. テキスト情報分析のための判断情報アノテーション. 電子情報通信学会論文誌, Vol.J93-D, No.6, pp.705-713, June 2010.
+- 飯田龍, 小町守, 乾健太郎, 松本裕治. 述語項構造と照応関係のアノテーション: NAISTテキストコーパス構築の経験から. 自然言語処理, Vol.17, No.2, pp.25-50, April 2010. (DOI: 10.5715/jnlp.17.2_25)
+- Naoya Inoue, Ryu Iida, Kentaro Inui, and Yuji Matsumoto. Resolving Direct and Indirect Anaphora for Japanese Definite Noun Phrases. Journal of Natural Language Processing, Vol.17, No.1, pp.221-246, April 2010.
+- 小町守, 飯田龍, 乾健太郎, 松本裕治. 名詞句の語彙統語パターンを用いた事態性名詞の項構造解析. 自然言語処理, Vol.17, No.1, pp.141-160, January 2010. (DOI:10.5715/jnlp.17.1_141)
+- 阿部修也, 乾健太郎, 松本裕治. 項の共有関係と統語パターンを用いた事態間関係獲得. 自然言語処理, Vol.17, No.1, pp.121−140, January 2010. (DOI: 10.5715/jnlp.17.1_121)
+- 加藤義清, 河原大輔, 乾健太郎, 黒橋禎夫, 柴田知秀. Web ページの情報発信者の同定. 人工知能学会論文誌, Vol.25, No.1, pp.79-82, January 2010. (DOI: 10.1527/tjsai.25.90)
+
+### Books
+
+- 岡崎直観, 荒瀬由紀, 鈴木潤, 鶴岡慶雅, 宮尾祐介. IT Text 自然言語処理の基礎. オーム社, 2022年8月.
+- Ryu Iida, Mamoru Komachi, Naoya Inoue, Kentaro Inui and Yuji Matsumoto. NAIST Text Corpus: Annotating Predicate-Argument and Coreference Relations in Japanese. In Nancy Ide and James Pustejovsky (Eds), Handbook of Linguistic Annotation, Part II, pp.1177-1196, Springer, July 2017.
+- Francis Bond, Timothy Baldwin and Kentaro Inui (Eds). Readings in Japanese Natural Language Processing. CSLI Studies in Computational Linguistics, The University of Chicago Press Books, 2016.
+- 福原裕一, 松林優一郎, 乾健太郎. 自然言語処理における意味・談話情報のコーパスアノテーション. 小川芳樹, 長野明子, 菊地朗 (編), コーパスからわかる言語変化・変異と言語理論, Part V, pp. 423-442, 開拓社, 2016.
+- 乾健太郎. ネット情報の信頼性判断の技術的支援. 楠見孝, 道田泰司 (編), 批判的思考と市民リテラシー, 第14章, pp. 217-232, 誠信書房, 2016.
+- 乾健太郎. 批判的思考を支援する情報システム. 楠見孝 (編), ワードマップ 批判的思考, pp.3-18, pp.276-279, 新曜社, 2015.
+- Naoya Inoue, Ekaterina Ovchinnikova, Kentaro Inui, and Jerry R. Hobbs. Weighted Abduction for Discourse Processing Based on Integer Linear Programming. In Gita Sukthankar, Christopher Geib, Robert P. Goldman, Hung Bui, and David V. Pynadath (Eds), Plan, Activity, and Intent Recognition, Chapter 2, pp.33-56, Elsevier, March 2014.
+- 乾健太郎，関根聡．言語資源と言語知識獲得．松本裕治 (編), 中島平三 (監修): 言語と情報科学, シリーズ 朝倉〈言語の可能性〉第6巻, 第5章，朝倉書店, July 2011.
+
+### Review Articles
+
+- 三田雅人. Do Grammatical Error Correction Models Realize Grammatical Generalization??. 会誌「自然言語処理」, Volume 28, Number 5, pp.1331-1335, December 2021.
+- 小林悟郎. Attention is Not Only a Weight: Analyzing Transformers with Vector Norms. 会誌「自然言語処理」, Volume 28, Number 1, pp.292-296, March 2021.
+- 大内啓樹. Instance-Based Learning of Span Representation: A Case Study through Named Entity Recognition. 会誌「自然言語処理」, Volume 27, Number 3, pp.659-664, September 2020.
+- 井之上直也. R4C: A Benchmark for Evaluating RC Systems to Get the Right Answer for the Right Reason. 会誌「自然言語処理」, Volume 27, Number 3, pp.665-670, September 2020.
+- 栗林樹生. Language Models as an Alternative Evaluator of Word Order Hypotheses: A Case Study in Japanese". 会誌「自然言語処理」, Volume 27, Number 3, pp.671-676, September 2020.
+- 佐藤志貴. Evaluating Dialogue Generation Systems via Response Selection. 会誌「自然言語処理」, Volume 27, Number 3, pp.677-682, September 2020.
+- 井之上 直也. 言語データからの知識獲得と言語処理への応用. 人工知能, Vol. 33, No. 3, pp. 337-344, 2018.
+- 乾健太郎. 含意関係認識. 人工知能学大辞典, 8-20, pp.644-645, 2017.
+- 井之上 直也（分担）. 自然言語を中心とする記号処理, 独立行政法人情報処理推進機構 AI白書編集委員会, AI白書 2017, 1.4章, AI白書 2017, 株式会社角川アスキー総合研究所発行, July 2017.
+- 乾健太郎. 自然言語処理. この１冊でまるごとわかる人工知能ビジネス, 日経BP社, August 2015.
+- 乾健太郎. ネットにあふれる健康・医療情報の信頼性をどう担保するか？ 〜自然言語処理からの情報科学的アプローチ〜. 仙台医師会報, 2014年4月号, April 2014.
+- 乾健太郎. ビッグデータから知をつむぐ自然言語処理. 翠巒, 第28号, March 2014.
+- 乾健太郎. 問題を考える. 自然言語処理, 巻頭言, Vol.17, No.1, January 2010.
+
+### Invited Talks
+
+- Benjamin Heinzerling, 横井祥, 小林悟郎. 言語モデルの内部機序：解析と解釈. 言語処理学会 第31回年次大会 チュートリアル講演, March 2025.
+- 小林悟郎. Day10. LLMの分析と理論（後半パート）. 東京大学 松尾・岩澤研究室 大規模言語モデル講座, October 2024.
+- 舟山弘晃. Toward Practical Use of Automated Short Answer Scoring: Challenges and Prospects. HeKKSaGOn AI Symposium, Göttingen (Germany) , Sept. 2023.
+- 舟山弘晃. 採点コストと採点品質の最適化に向けたSASにおける人間参加型フレームワークの探求,第22回科学技術フォーラム (FIT2023) トップコンファレンスセッション (教育学習支援情報システム), Sept. 2023.
+- 乾健太郎. How can We Build Trust in Automated Writing Evaluation? the 24th International Conference on Artificial Intelligence in Education(AIED2023) , July 2023.
+- 乾健太郎. 記念パネル討論「情報科学の最前線:AIの進化がもたらす人間社会へのインパクトに迫る」. 情報科学研究科創立30周年記念行事, July 2023.
+- 乾健太郎. 言語処理の人工知能最前線 〜最先端の技術開発と社会実装〜. 工学院大学情報学先端技術特別講義, July 2023.
+- 乾健太郎. How can We Build Trust in Automated Writing Evaluation?, AIED2023, June 2023.
+- 横井祥. ⾔葉の意味の計算と最適輸送. Optimal Transport Meets Data, May 2023.
+- 赤間怜奈. ことばを扱う人工知能 −生成系 AI を支える自然言語処理− , 宮城第一高校, May 2023.
+- 横井祥. Workshop OT 2023（最適輸送とその周辺 – 機械学習から熱力学的最適化まで）, March 2023.
+- 阿部香央莉. 日本語を含む言語対における制約付き翻訳タスクの近況. AAMT 2022, Tokyo ～機械翻訳最前線～ 招待講演． December 2022.
+- 乾健太郎. 自然言語処理によるライティング自動評価. 情報科学研究科シンポジウム, November 2022.
+- Kentaro Inui. Explainability in Automated Writing Evaluation. Invited Talk, COLING 2022, October 2022.
+- 乾健太郎. AI はいつか言葉を理解するか？ 〜言語から見る人工知能の現在と未来〜. Workshop on ExploreCSR @Tohoku University, July 2022.
+- 乾健太郎. 言語処理の人工知能最前線 〜最先端の技術開発と社会実装〜. 工学院大学情報学先端技術特別講義, July 2022.
+- 乾健太郎. 自然言語処理(AI 添削)の最前線 ~仕組み、活用事例、現状と課題点~. 日本能率協会, July 2022.
+- 乾健太郎, 赤間怜奈. AIはいつか言葉を理解するか？〜言語から見る人工知能の現在と未来〜, 宮城第一高校, May 2022.
+- 乾健太郎. ディベートの自動評価は可能か？：学習するAIと言葉の理解. 一般社団法人パーラメンタリーディベート人財育成協会第1回キーノートディベート, キーノートスピーチ, April 2022.
+- 乾健太郎. 自然言語アセスメント：自然言語処理からの試み. Ed-AI研究会第2回シンポジウム「Ed-AIが生みだす未来の教育」, 基調講演, April 2022.
+- Kentaro Inui. Natural Language Understanding and Assessment. The 68th Seminar on RIKEN Center for Advanced Photonics, November 2020.
+- 乾健太郎. コロナ新時代に自然言語処理ができること. コロナ新時代における人工知能の活用, October 2020.
+- Kentaro Inui. Natural Language Understanding and Assessment. The 1st International Symposium on AI Electronics, September 2020.
+- 乾健太郎. 「知識と推論に基づいて⾔語で説明できる AI」への道のり. ACL2020オンライン読み会, September 2020.
+- 井之上直也. 自然言語処理システムは本当に言語を理解しているか？ 全脳アーキテクチャ若手の会 シンポジウム, March 2020.
+- 乾健太郎. 自然言語処理のフロンティア〜言語理解マシンへの道のり〜. コンピュータソフトウェア協会（CSAJ）人工知能技術研究会, February 2020.
+- 乾健太郎. 自然言語理解への道のり. JST/CRDSワークショップ「深層学習と知識・記号推論の融合によるAI基盤技術の発展」, January 2020.
+- 乾健太郎. 自然言語処理から見える人工知能研究の方向性. 文部科学省戦略的創造研究推進事業ワークショップ ｢人間中心社会におけるAIの信頼性を支える基盤技術」, December 2019.
+- Kentaro Inui. New Challenges in Natural Language Assessment. Bilateral Workshop between National Tsing Hua University and Tohoku University, November 2019.
+- Kentaro Inui. Natural Language Understanding and Assessment. Keynote Speech, The 16th International Conference of the Pacific Association for Computational Linguistics (PACLING 2019), October 2019.
+- Kentaro Inui. New Challenges in Natural Language Assessment. The 19th China-Japan Natural Language Processing Collaboration Promotion Conference (CJNLP2019), September 2019.
+- 乾健太郎. 言葉がわかる人工知能をつくるには〜言葉の不思議と自然言語処理の最前線〜. 東北管区警察局. September 2019.
+- 乾健太郎. 自然言語処理のフロンティア 深層学習のインパクトと活用方法. 土木学会 構造工学でのAI活用に関する研究小委員会. August 2019.
+- 乾健太郎. 言葉がわかる人工知能をつくる〜自然言語処理の挑戦〜. 河合塾 『知の広場』. August 2019.
+- 乾健太郎. 言論マップ、ファクトチェック: 自然言語処理技術によるアプローチ. JST/CRDS 公開ワークショップ 「意思決定のための情報科学 ～情報氾濫・フェイク・分断に立ち向かうことは可能か～」. July 2019.
+- 乾健太郎. ネットの誤情報に対する自然言語処理からのアプローチ. 総務省プラットフォームサービスに関する研究会. June 2019.
+- 乾健太郎. AIはいつか言葉を理解するか？ 〜言語から見る人工知能の現在と未来〜. 宮城県宮城第一高等学校講義. May 2019.
+- 乾健太郎. 自然言語処理研究から見える人工知能の現在と未来. 宮城県高等学校進路指導研究会春季総会. May 2019.
+- 乾健太郎. ネットの誤情報に対する自然言語処理からのアプローチ. シンポジウム「フェイクニュースとどう向き合うか――メディアの現場と社会科学・情報科学の対話」, March 2019.
+- 乾健太郎. 言葉がわかる人工知能をつくる. 東北大学工学部 in 東京, March 2019.
+- 乾健太郎. ラーニングアナリティクス×自然言語処理. 日本学術会議公開シンポジウム「ラーニングアナリティクスによるエビデンスに基づく教育に関する国際シンポジウム」, パネル討論, March 2019.
+- 乾健太郎. 自然言語テキストの理解と評価. 第2回 自然言語処理の中長期研究構想を論じる会（第239回自然言語処理研究会）, March 2019.
+- 乾健太郎. ＡＩはいつか言葉を理解するか？ 〜言語から見る人工知能の現在と未来〜. 秋桜会第339回例会, February 2019.
+- Kentaro Inui. Natural language understanding and assessment. The 1st Japan-Israel Machine Learning Workshop, November 2018.
+- 乾健太郎. 言語から見た人工知能の現在と未来. 朝日地球会議パネル討論「AI×IoT時代、『人と人の間』はどう変わる」, September 2018.
+- Kentaro Inui. Commonsense Reasoning for Natural Language Discourse Understanding. Lecture in Machano-informatics, Tokyo University, July 2018.
+- 乾健太郎. AIはいつか言葉を理解するか？ 〜言語から見る人工知能の現在と未来〜. 東北大学111周年萩友会関東交流会, July 2018.
+- 乾健太郎. 言葉がわかる人工知能をつくるには 〜自然言語処理の挑戦〜. 宮城第一高校, May 2018.
+- 乾健太郎. 三菱ケミカルホールディングス Data Scientist Network 2018年度第1Q会合, May 2018.
+- 乾健太郎, 楊井文人. テクノロジー支援と市民参加の可能性. ファクトチェック・イニシアティブ設立シンポジウム, April 2018.
+- 乾健太郎. AI版「赤ペン先生」をつくる！自然言語処理のフロンティア. グロービス経営大学院「知の創造勉強会」, March 2018.
+- 乾健太郎. 自然言語処理のフロンティア ～自然言語の意味計算とその向こう側～. Hitachiアカデミックシステム研究会 第41回研究会, March 2018.
+- 乾健太郎. 言葉がわかる人工知能をつくるには～言葉の不思議と自然言語処理の最前線～. 特別講演会「東北大学in東京 工学部編」, March 2018.
+- Kentaro Inui. Modeling Commonsense Reasoning for Natural Language Understanding. International Conference for Top and Emerging Computer Scientists (IC-TECS), December 2017.
+- Kentaro Inui. Modeling Commonsense Reasoning for Natural Language Understanding. The 1st NTU-Tohoku U Symposium on Interdisciplinary AI and Human Studies, December 2017.
+- 井之上直也, 山口 健史. 大規模言語資源を活用した自然言語処理. Gfarm シンポジウム2017, December 2017.
+- 乾健太郎. 人工知能の現在と未来. 東北大学・読売新聞共同プロジェクト 市民のためのサイエンス講座2017「人工知能（AI）が切り拓く未来～持続可能で心豊かな社会へのアプローチ～」, December 2017.
+- 乾健太郎. パネル討論, Inter BEE Forum「災害情報とAI～データ・ジャーナリズムの視点から」, November 2017.
+- 乾健太郎. 記述答案の自動評価に向けて. DiTTシンポジウム「AI時代の教育を考える」, November 2017.
+- 乾健太郎. ファクトチェック・イニシアティブ＋SmartNews＋東北大によるファクトチェック支援技術の実証実験構想. SmartNews メディアパートナーミーティング Vol.5, November 2017.
+- 乾健太郎. 自然言語処理のフロンティア. Astro-AI 第1回研究会, September 2017.
+- 乾健太郎. 人工知能・自然言語処理から見える産業のスマート化 〜人工知能ブームへの備え方〜. 東北生産性本部平成29年度労使セミナー, September 2017.
+- 乾健太郎. 言葉がわかる人工知能をつくるには 〜自然言語処理の挑戦〜. 河合塾仙台校「知の広場」, July 2017.
+- 乾健太郎. 言葉がわかる人工知能をつくるには 〜言葉の不思議と自然言語処理の最前線〜. 東北大学オープンキャンパス模擬講義, July 2017.
+- 乾健太郎. 言葉がわかる人工知能をつくるには 〜自然言語処理の挑戦〜. 渋谷教育学園幕張高等学校, July 2017.
+- Kentaro Inui. Commonsense Reasoning for Natural Language Discourse Understanding. Lecture in Machano-informatics, Tokyo University, July 2017.
+- 乾健太郎. 言葉がわかる人工知能をつくるには 〜自然言語処理の挑戦〜. 宮城県立富谷高校, June 2017.
+- 乾健太郎. 言葉がわかる人工知能をつくるには 〜自然言語処理の挑戦〜. 宮城第一高校, May 2017.
+- 乾健太郎. 人工知能・自然言語処理から見える産業のスマート化：人工知能ブームへの備え方. 仙台商工会議所, February 2017.
+- 乾健太郎. 自然言語処理のフロンティア. 横浜国立大学研究集会「新たな数理科学の可能性に向けて：IoT・人工知能・量子ウォークとその周辺」, December 2016.
+- 乾健太郎. 言葉を理解する人工知能のいま 〜自然言語処理の基礎からフロンティアまで〜. 宮城県高等学校情報科教育研究会研究大会, November 2016.
+- 乾健太郎. 文章の「行間」を読むコンピュータの実現を目指して. 日立ソリューションズ東日本事業化発表会, November 2016.
+- 乾健太郎. 言葉がわかる人工知能をつくるには 〜自然言語処理の挑戦〜. 新宿高校, October 2016.
+- Kentaro Inui. Commonsense Reasoning for Natural Language Discourse Understanding. Bilateral Workshop between Tohoku University and National Tsing Hua University, Plenary Speech, October 2016.
+- 乾健太郎, 関根聡. 「行間を読む」言語理解のための知識と推論. 第4回けいはんなエジソンの会, October 2016.
+- Kentaro Inui. Computational Models of Commonsense Reasoning for Natural Language Discourse Understanding. AEARU Web Technology and Computer Science Workshop 2016, September 2016.
+- 乾健太郎. 自然言語処理との付き合い方 〜災害対応とメディアを例に〜. 日本原子力学会HMS研究部会2016年度夏期セミナー, July 2016.
+- 乾健太郎. 言葉がわかる人工知能をつくるには 〜自然言語処理の挑戦〜. 仙台第三高校, October 2016.
+- 乾健太郎. 言葉を理解する人工知能のいま ～自然言語処理・人工知能から見える社会・産業のスマート化～. 産学連携セミナー「第102回寺子屋せんだい」, May 2016.
+- 乾健太郎. 自然言語処理を活用した防災情報の整理と共有. 仙台防災未来フォーラム2016「『しなやかな社会』の情報通信ネットワークを目指して」, March 2016.
+- 乾健太郎. もしも災害で情報が混乱してしまったら 〜自然言語処理を活用した防災情報の整理と共有〜. 東北大学大学院情報科学研究科シンポジウム「『情報科学』から『防災』を考える」, March 2016.
+- 乾健太郎. 自然言語処理・人工知能から見るビッグデータの今と未来. 第1回 ビッグデータ車座 in 仙台, January 2016.
+- 乾健太郎. 人工知能研究から見えるスマート社会の地平. 東北大学電気・情報系東京フォーラム, 基調講演, November 2015.
+- 乾健太郎. 言葉がわかる人工知能をつくる 〜自然言語処理の挑戦〜. 仙台第一高校, October 2015.
+- 乾健太郎. 言葉がわかるコンピュータをつくる 〜言葉の不思議と自然言語処理の最前線〜. 東北大学祭模擬講義, October 2015.
+- 乾健太郎. 大規模知識獲得で深化する自然言語処理のフロンティア. モバイル・コンテンツ・フォーラム「モバイルビジネスの発展を実現する人工知能の活用とは」, October 2015.
+- 乾健太郎. 言葉がわかる人工知能をつくる 〜自然言語処理の挑戦〜. 宮城第一高校, October 2015.
+- 乾健太郎. 審査委員としての視点による説明. 平成27年度科研費学内説明会, September 2015.
+- 乾健太郎, 松林優一郞. 言語コーパスへの重層的意味情報付与 〜自然言語処理から見たコーパス分析〜. 言語変化・変異研究ユニット第二回ワークショップ「コーパスからわかる言語の可変性と普遍性」, September 2015.
+- 乾健太郎. 自然言語処理による情報編集. SmartNews Tech Night Vol.3, August 2015.
+- 乾健太郎. 「行間を読む」自然言語処理への挑戦 〜知識、学習、推論、そしてグラウンディング〜. 第18回画像の認識・理解シンポジウム (MIRU), 特別講演, July 2015.
+- 乾健太郎. 自然言語処理から見える知能情報技術の近未来. JASA東北 知能情報フェスタ, March 2015.
+- 乾健太郎. ビッグデータで加速する自然言語処理. 東北IT推進機構 勉強会, March 2015.
+- 乾健太郎. 自然言語処理の立場から見た近未来. 情報処理学会第77回全国大会「トップランナーが語るITの未来」, March 2015.
+- Kentaro Inui. Modeling "Reading between the Lines" Based on Scalable and Trainable Abduction and Large-scale Knowledge Acquisition. Workshop on Deep and Large-Scale Semantic Processing: The Way Ahead. Trento, March 2015.
+- 乾健太郎. 計算機によるデータに基づく言い換え. 第６回産業日本語研究会・シンポジウム, February 2015.
+- Kentaro Inui. Modeling "Reading between the Lines" Based on Scalable and Trainable Abduction and Large-scale Knowledge Acquisition. NII Shonan Meeting Seminar 057: Towards Explanation Production Combining Natural Language Processing and Logical Reasoning, November 2014.
+- 乾健太郎. 言葉がわかるコンピュータを創るには 〜言葉の不思議と自然言語処理の最前線〜. 東北大学祭模擬講義, November 2014.
+- 乾健太郎. ビッグデータ時代の自然言語処理. テレコムサービス協会東北支部セミナー, May 2014.
+- 乾健太郎. 知のメディアへ：自然言語処理からの展開. 人工知能学会全国大会特別セッション「人間と調和した創造的協働を実現する知的情報処理システム」, May 2014.
+- 乾健太郎. ソーシャルメディア時代のソーシャルリスニング. 仙台泉倫理法人会モーニングセミナー, January 2014.
+- 乾健太郎. ビッグデータから知をつむぐ自然言語処理. 第13回東北大学-NTT技術交流会, December 2013.
+- 乾健太郎. 言葉が少しわかるようになったコンピュータの使い方. 仙台エコーライオンズクラブ, November 2013.
+- 乾健太郎. ビッグデータから知をつむぐ自然言語処理. 東北大学 電気・情報 東京フォーラム, November 2013.
+- 乾健太郎. ビッグデータと対話する自然言語処理. お茶の水女子大学情報科学科 理学総論, November 2013.
+- 乾健太郎. 自然言語処理から見たビッグデータの可能性. ITCみやぎ・SAAJ東北・JISTA東北ワークショップ2013, October 2013.
+- 乾健太郎. 「行間を読む」自然言語処理への挑戦. 豊田工業大学第９回ジョイントCSセミナー, October 2013.
+- 乾健太郎. ソーシャルメディア時代のソーシャルリスニング. 仙台青葉倫理法人会モーニングセミナー, October 2013.
+- 乾健太郎. 耐災害ICTを目指す自然言語処理. 東北大学電気通信研究機構シンポジウム, July 2013.
+- 乾健太郎, 岡崎直観. 自然言語処理によるネット情報分析、およびツイート分析と報道. 三金会, 仙台, July 2013.
+- 乾健太郎. ビッグデータと対話する自然言語処理. 東京大学大学院情報理工学研究科コンピュータ科学専攻講演会, July 2013.
+- 乾健太郎. ビッグデータ時代の自然言語処理. 東北データベースソサエティ, June 2013.
+- 乾健太郎．大学でワクワクするためのいくつかのヒント 〜言葉がわかるコンピュータの話とともに〜，仙台第三高等学校，May 2013．
+- 乾健太郎. 言葉がわかるコンピューターはどこまでできたか ～言葉の不思議と自然言語処理の最前線. 東北大学サイエンスカフェ, February 2013.
+- 乾健太郎. ビッグデータ時代の自然言語処理. 鹿児島大学情報工学科先端科学特別講義, February, 2013.
+- 乾健太郎. 言葉が少しわかるようになったコンピュータの使い方. 仙台はなもく七三会. November 2012.
+- 乾健太郎．ネット情報の信頼性分析を支援する言語処理技術．第86回デジタルドキュメント研究会，July 2012．
+- 乾健太郎. 大規模言語資源時代の意味談話処理. 言語処理学会第18回年次大会チュートリアル講演，March 2012.
+- Kentaro Inui. Toward deep processing of language in the era of large-scale knowledge resources: Time for formal semantics to meet NLP again. In Proceedings of the 8th International Workshon on Logic and Engineering of Natural Language Semantics (LENLS8), December 2011.
+- Kentaro Inui and Naoya Inoue. Scalable Abduction for Deep NLP. The Shonan Meeting on Knowledge-leveraged Computational Thinking through Natural Language Processing and Statistical Logic, September 2011.
+- 乾健太郎. 大規模言語資源に基づくWeb情報の組織化. ALAGINシンポジウム2011, September, 2011.
+- 乾健太郎. ネット情報の信頼性を検証するための技術的支援. 情報アクセスシンポジウム2011, September 2011.
+- 乾健太郎. 自然言語処理の新展開とウェブ情報編集の未来像. 東北大学大学院国際文化研究科第11回「言語・脳・認知」コロキアム, December 2010.
+- 乾健太郎. 大規模言語/世界知識に基づく次世代Web情報分析. 電子情報通信学会コンピュテーション研究会, October 2010.
+- 乾健太郎. コーパスへの意味的注釈の重層的付与. 英語コーパス学会第36回大会シンポジウム「コーパスにおける言語的注釈と自然言語処理技術」, October 2010.
+- 乾健太郎. コミュニケーションの条件と言語情報編集技術. 東北大学情報科学研究科第4回総合科学を考えるセミナー, October 2010.
+- 乾健太郎. 大規模知識に基づく言語情報処理と次世代ウェブ情報編集の可能性. 北海道大学大学院情報科学研究科GCOE講演会, June 2010.
+- 乾健太郎. 大規模言語/世界知識に基づくWeb情報編集の高度化. 電子情報通信学会思考と言語研究会, May 2010.かな社会へのアプローチ～」, December 2017.
+- 乾健太郎. パネル討論, Inter BEE Forum「災害情報とAI～データ・ジャーナリズムの視点から」, November 2017.
+- 乾健太郎. 記述答案の自動評価に向けて. DiTTシンポジウム「AI時代の教育を考える」, November 2017.
+- 乾健太郎. ファクトチェック・イニシアティブ＋SmartNews＋東北大によるファクトチェック支援技術の実証実験構想. SmartNews メディアパートナーミーティング Vol.5, November 2017.
+- 乾健太郎. 自然言語処理のフロンティア. Astro-AI 第1回研究会, September 2017.
+- 乾健太郎. 人工知能・自然言語処理から見える産業のスマート化 〜人工知能ブームへの備え方〜. 東北生産性本部平成29年度労使セミナー, September 2017.
+- 乾健太郎. 言葉がわかる人工知能をつくるには 〜自然言語処理の挑戦〜. 河合塾仙台校「知の広場」, July 2017.
+- 乾健太郎. 言葉がわかる人工知能をつくるには 〜言葉の不思議と自然言語処理の最前線〜. 東北大学オープンキャンパス模擬講義, July 2017.
+- 乾健太郎. 言葉がわかる人工知能をつくるには 〜自然言語処理の挑戦〜. 渋谷教育学園幕張高等学校, July 2017.
+- Kentaro Inui. Commonsense Reasoning for Natural Language Discourse Understanding. Lecture in Machano-informatics, Tokyo University, July 2017.
+- 乾健太郎. 言葉がわかる人工知能をつくるには 〜自然言語処理の挑戦〜. 宮城県立富谷高校, June 2017.
+- 乾健太郎. 言葉がわかる人工知能をつくるには 〜自然言語処理の挑戦〜. 宮城第一高校, May 2017.
+- 乾健太郎. 人工知能・自然言語処理から見える産業のスマート化：人工知能ブームへの備え方. 仙台商工会議所, February 2017.かな社会へのアプローチ～」, December 2017.
+- 乾健太郎. パネル討論, Inter BEE Forum「災害情報とAI～データ・ジャーナリズムの視点から」, November 2017.
+- 乾健太郎. 記述答案の自動評価に向けて. DiTTシンポジウム「AI時代の教育を考える」, November 2017.
+- 乾健太郎. ファクトチェック・イニシアティブ＋SmartNews＋東北大によるファクトチェック支援技術の実証実験構想. SmartNews メディアパートナーミーティング Vol.5, November 2017.
+- 乾健太郎. 自然言語処理のフロンティア. Astro-AI 第1回研究会, September 2017.
+- 乾健太郎. 人工知能・自然言語処理から見える産業のスマート化 〜人工知能ブームへの備え方〜. 東北生産性本部平成29年度労使セミナー, September 2017.
+- 乾健太郎. 言葉がわかる人工知能をつくるには 〜自然言語処理の挑戦〜. 河合塾仙台校「知の広場」, July 2017.
+- 乾健太郎. 言葉がわかる人工知能をつくるには 〜言葉の不思議と自然言語処理の最前線〜. 東北大学オープンキャンパス模擬講義, July 2017.
+- 乾健太郎. 言葉がわかる人工知能をつくるには 〜自然言語処理の挑戦〜. 渋谷教育学園幕張高等学校, July 2017.
+- Kentaro Inui. Commonsense Reasoning for Natural Language Discourse Understanding. Lecture in Machano-informatics, Tokyo University, July 2017.
+- 乾健太郎. 言葉がわかる人工知能をつくるには 〜自然言語処理の挑戦〜. 宮城県立富谷高校, June 2017.
+- 乾健太郎. 言葉がわかる人工知能をつくるには 〜自然言語処理の挑戦〜. 宮城第一高校, May 2017.
+- 乾健太郎. 人工知能・自然言語処理から見える産業のスマート化：人工知能ブームへの備え方. 仙台商工会議所, February 2017.

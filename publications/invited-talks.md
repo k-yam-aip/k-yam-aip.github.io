@@ -1,6 +1,6 @@
 ## Publicatios » Invited Talks / 研究発表一覧 » 招待講演等
 
-[International Conferences](./international-conferences) | [Journal Papers](./journal-papers) | [Awards](./awards) | [Books](./books) | [Review Articles](./review-articles) | **Invited Talks** | [Domestic Conferences](./domestic-conferences) | [Patents](./patents) | [Media Reports](./media-reports) | [Miscellanea](./miscellanea)
+[International Conferences](./international-conferences) \| [Journal Papers](./journal-papers) \| [Awards](./awards) \| [Books](./books) \| [Review Articles](./review-articles) \| **Invited Talks** \| [Domestic Conferences](./domestic-conferences) \| [Patents](./patents) \| [Media Reports](./media-reports) \| [Miscellanea](./miscellanea)
 
 1.  磯沼 大. 「逆」のすすめ. 第20回言語処理若手シンポジウム 招待ポスター, September 2025.
 2.  中石海. 言語に関する統計物理学的問いと、自然言語処理技術によるその探究. 第20回言語処理若手シンポジウム 招待ポスター, September 2025.

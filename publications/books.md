@@ -1,6 +1,6 @@
 ## Publicatios » Books / 研究発表一覧 » 著書・編書・訳書
 
-[International Conferences](./international-conferences) | [Journal Papers](./journal-papers) | [Awards](./awards) | **Books** | [Review Articles](./review-articles) | [Invited Talks](./invited-talks) | [Domestic Conferences](./domestic-conferences) | [Patents](./patents) | [Media Reports](./media-reports) | [Miscellanea](./miscellanea)
+[International Conferences](./international-conferences) \| [Journal Papers](./journal-papers) \| [Awards](./awards) \| **Books** \| [Review Articles](./review-articles) \| [Invited Talks](./invited-talks) \| [Domestic Conferences](./domestic-conferences) \| [Patents](./patents) \| [Media Reports](./media-reports) \| [Miscellanea](./miscellanea)
 
 1.  M.Nakao, Y. Takahashi, K. Inui, “Diverse aspects of human circadian rhythms disclosed by Tweet (X) density sequences”, In: “Circadian Clocks in 2024”, K.-I. Honma and S. Honma eds., Ashoff and Honma Foundation, pp.231-234, 2025. ISBN978-4-9913218-1-8
 2.  岡崎直観, 荒瀬由紀, 鈴木潤, 鶴岡慶雅, 宮尾祐介. IT Text 自然言語処理の基礎. オーム社, 2022年8月. 

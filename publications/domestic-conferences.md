@@ -1,6 +1,6 @@
 ## Publicatios » Domestic Conferences / 研究発表一覧 » 国内学会
 
-[International Conferences](./international-conferences) | [Journal Papers](./journal-papers) | [Awards](./awards) | [Books](./books) | [Review Articles](./review-articles) | [Invited Talks](./invited-talks) | **Domestic Conferences** | [Patents](./patents) | [Media Reports](./media-reports) | [Miscellanea](./miscellanea)
+[International Conferences](./international-conferences) \| [Journal Papers](./journal-papers) \| [Awards](./awards) \| [Books](./books) \| [Review Articles](./review-articles) \| [Invited Talks](./invited-talks) \| **Domestic Conferences** \| [Patents](./patents) \| [Media Reports](./media-reports) \| [Miscellanea](./miscellanea)
 
 1.  原知正, 栗田宙人, 今泉允聡(東京大学/京都大学/理化学研究所), 乾健太郎, 横井祥. なぜ一次モーメント情報のみ残したテキスト埋め込みはうまく動くのか？：単語埋め込み集合における二次モーメント情報の崩壊の分析. 第28回情報論的学習理論ワークショップ (IBIS), November 2025.
 2.  吉田 倖 , 塩野 大輝 , 佐藤 魁 , 古橋 萌々香 , 三浦 東子 , 鈴木 潤. 類題を用いた教育的フィードバックの自動評価. 第20回言語処理若手シンポジウム (YANS2025), September 2025.

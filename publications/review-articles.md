@@ -1,6 +1,6 @@
 ## Publicatios » Review Articles / 研究発表一覧 » 解説記事
 
-[International Conferences](./international-conferences) | [Journal Papers](./journal-papers) | [Awards](./awards) | [Books](./books) | **Review Articles** | [Invited Talks](./invited-talks) | [Domestic Conferences](./domestic-conferences) | [Patents](./patents) | [Media Reports](./media-reports) | [Miscellanea](./miscellanea)
+[International Conferences](./international-conferences) \| [Journal Papers](./journal-papers) \| [Awards](./awards) \| [Books](./books) \| **Review Articles** \| [Invited Talks](./invited-talks) \| [Domestic Conferences](./domestic-conferences) \| [Patents](./patents) \| [Media Reports](./media-reports) \| [Miscellanea](./miscellanea)
 
 1.  ハインツァリングベンヤミン. ドイツのグラドゥイアーテンコレーク : 博士号を取るなら 10人ぐらいの仲間と. 人工知能, Vol. 40, No. 6, pp.1011-1012, November 2025.
 2.  三田雅人. Do Grammatical Error Correction Models Realize Grammatical Generalization??. 会誌「自然言語処理」, Volume 28, Number 5, pp.1331-1335, December 2021.

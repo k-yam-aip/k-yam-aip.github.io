@@ -1,4 +1,5 @@
-## Invited Talks  招待講演等
+## Publicatios / Invited Talks
+### 研究発表一覧 / 招待講演等
 
 ##### [International Conferences](./international-conferences) | [Journal Papers](./journal-papers) | [Awards](./awards) | [Books](./books) | [Review Articles](./review-articles) | **Invited Talks** | [Domestic Conferences](./domestic-conferences) | [Patents](./patents) | [Media Reports](./media-reports) | [Miscellanea](./miscellanea)
 

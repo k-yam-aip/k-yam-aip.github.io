@@ -1,4 +1,5 @@
-## International Conferences / International Conference Papers
+## Publicatios / International Conferences
+### 研究発表一覧 / 国際会議論文
 
 ##### **International Conferences** | [Journal Papers](./journal-papers) | [Awards](./awards) | [Books](./books) | [Review Articles](./review-articles) | [Invited Talks](./invited-talks) | [Domestic Conferences](./domestic-conferences) | [Patents](./patents) | [Media Reports](./media-reports) | [Miscellanea](./miscellanea)
 

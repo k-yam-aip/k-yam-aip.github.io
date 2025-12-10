@@ -1,4 +1,5 @@
-## Awards / 受賞
+## Publicatios / Awards
+### 研究発表一覧 / 受賞
 
 ##### [International Conferences](./international-conferences) | [Journal Papers](./journal-papers) | **Awards** | [Books](./books) | [Review Articles](./review-articles) | [Invited Talks](./invited-talks) | [Domestic Conferences](./domestic-conferences) | [Patents](./patents) | [Media Reports](./media-reports) | [Miscellanea](./miscellanea)
 

@@ -1,4 +1,5 @@
-## Patents  特許
+## Publicatios / Patents
+### 研究発表一覧 / 特許
 
 ##### [International Conferences](./international-conferences) | [Journal Papers](./journal-papers) | [Awards](./awards) | [Books](./books) | [Review Articles](./review-articles) | [Invited Talks](./invited-talks) | [Domestic Conferences](./domestic-conferences) | **Patents** | [Media Reports](./media-reports) | [Miscellanea](./miscellanea)
 

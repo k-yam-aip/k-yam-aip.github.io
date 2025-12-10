@@ -1,7 +1,6 @@
-## Publicatios / Media Reports
-### 研究発表一覧 / メディア報道
+## Publicatios » Media Reports / 研究発表一覧 » メディア報道
 
-##### [International Conferences](./international-conferences) | [Journal Papers](./journal-papers) | [Awards](./awards) | [Books](./books) | [Review Articles](./review-articles) | [Invited Talks](./invited-talks) | [Domestic Conferences](./domestic-conferences) | [Patents](./patents) | **Media Reports** | [Miscellanea](./miscellanea)
+[International Conferences](./international-conferences) | [Journal Papers](./journal-papers) | [Awards](./awards) | [Books](./books) | [Review Articles](./review-articles) | [Invited Talks](./invited-talks) | [Domestic Conferences](./domestic-conferences) | [Patents](./patents) | **Media Reports** | [Miscellanea](./miscellanea)
 
 1.  Nature「News Feature」 「[AI is helping to decode animals’ speech. Will it also let us talk with them?](https://www.nature.com/articles/d41586-025-02917-9)」(2025年9月17日)　
     - [paper](https://arxiv.org/abs/2502.00344)

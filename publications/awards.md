@@ -1,7 +1,7 @@
-## Publicatios / Awards
-### 研究発表一覧 / 受賞
+## Publicatios » Awards / 研究発表一覧 » 受賞
 
-##### [International Conferences](./international-conferences) | [Journal Papers](./journal-papers) | **Awards** | [Books](./books) | [Review Articles](./review-articles) | [Invited Talks](./invited-talks) | [Domestic Conferences](./domestic-conferences) | [Patents](./patents) | [Media Reports](./media-reports) | [Miscellanea](./miscellanea)
+[International Conferences](./international-conferences) | [Journal Papers](./journal-papers) | **Awards** | [Books](./books) | [Review Articles](./review-articles) | [Invited Talks](./invited-talks) | [Domestic Conferences](./domestic-conferences) | [Patents](./patents) | [Media Reports](./media-reports) | [Miscellanea](./miscellanea)
+
 
 1.  [第33回博士後期課程学生発表会](https://www.is.tohoku.ac.jp/jp/news/award_s/detail---id-1651.html), [ベストプレゼンテーション賞](https://www.nlp.ecei.tohoku.ac.jp/#:~:text=Received%20Best%20Presentation%20Awards%20at%20the%2033rd%20Doctoral%20Student%20Presentations%20/%20%E7%AC%AC33%E5%9B%9E%E5%8D%9A%E5%A3%AB%E5%BE%8C%E6%9C%9F%E8%AA%B2%E7%A8%8B%E5%AD%A6%E7%94%9F%E7%99%BA%E8%A1%A8%E4%BC%9A%E3%83%99%E3%82%B9%E3%83%88%E3%83%97%E3%83%AC%E3%82%BC%E3%83%B3%E3%83%86%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E8%B3%9E%E5%8F%97%E8%B3%9E), 2025年7月30日
     - 工藤慧音

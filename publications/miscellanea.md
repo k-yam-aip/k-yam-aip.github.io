@@ -1,7 +1,6 @@
-## Publicatios / Miscellanea
-### 研究発表一覧 / その他
+## Publicatios » Miscellanea / 研究発表一覧 » その他
 
-##### [International Conferences](./international-conferences) | [Journal Papers](./journal-papers) | [Awards](./awards) | [Books](./books) | [Review Articles](./review-articles) | [Invited Talks](./invited-talks) | [Domestic Conferences](./domestic-conferences) | [Patents](./patents) | [Media Reports](./media-reports) | **Miscellanea**
+[International Conferences](./international-conferences) | [Journal Papers](./journal-papers) | [Awards](./awards) | [Books](./books) | [Review Articles](./review-articles) | [Invited Talks](./invited-talks) | [Domestic Conferences](./domestic-conferences) | [Patents](./patents) | [Media Reports](./media-reports) | **Miscellanea**
 
 1.  乾健太郎. 学会創立30周年を前に. 自然言語処理, Vol.29, No.2, 巻頭言, pp.292-293. ([PDF](https://www.jstage.jst.go.jp/article/jnlp/29/2/29_292/_pdf/-char/ja))
 2.  乾健太郎. 知能情報学. [リクルートキャリアガイダンス 第6回学びのみちしるべ](http://souken.shingakunet.com/career_g/2018/class/manabi_6_up.pdf), September 2018.

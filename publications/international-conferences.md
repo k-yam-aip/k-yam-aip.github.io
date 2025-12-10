@@ -1,7 +1,6 @@
-## Publicatios / International Conferences
-### 研究発表一覧 / 国際会議論文
+## Publicatios » International Conferences / 研究発表一覧 » 国際会議論文
 
-##### **International Conferences** | [Journal Papers](./journal-papers) | [Awards](./awards) | [Books](./books) | [Review Articles](./review-articles) | [Invited Talks](./invited-talks) | [Domestic Conferences](./domestic-conferences) | [Patents](./patents) | [Media Reports](./media-reports) | [Miscellanea](./miscellanea)
+**International Conferences** | [Journal Papers](./journal-papers) | [Awards](./awards) | [Books](./books) | [Review Articles](./review-articles) | [Invited Talks](./invited-talks) | [Domestic Conferences](./domestic-conferences) | [Patents](./patents) | [Media Reports](./media-reports) | [Miscellanea](./miscellanea)
 
 1.  Surawat Pothong, Machi Shimmei, Naoya Inoue, Paul Reisert, Ana Brassard, Wenzhi Wang, Shoichi Naito, Jungmin Choi, Kentaro Inui. FOCUS: A Benchmark for Targeted Socratic Question Generation via Source-Span Grounding. In Proceedings of the 14th International Joint Conference on Natural Language Processing (IJCNLP) and The 4th Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics (AACL), December 2025.
     - [Paper](https://openreview.net/pdf?id=IkBTMBa81b)

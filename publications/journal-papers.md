@@ -1,7 +1,6 @@
-## Publicatios / Journal Paper
-### 研究発表一覧 / 学術論文誌
+## Publicatios » Journal Paper / 研究発表一覧 » 学術論文誌
 
-##### [International Conferences](./international-conferences) | **Journal Papers** | [Awards](./awards) | [Books](./books) | [Review Articles](./review-articles) | [Invited Talks](./invited-talks) | [Domestic Conferences](./domestic-conferences) | [Patents](./patents) | [Media Reports](./media-reports) | [Miscellanea](./miscellanea)
+[International Conferences](./international-conferences) | **Journal Papers** | [Awards](./awards) | [Books](./books) | [Review Articles](./review-articles) | [Invited Talks](./invited-talks) | [Domestic Conferences](./domestic-conferences) | [Patents](./patents) | [Media Reports](./media-reports) | [Miscellanea](./miscellanea)
 
 1.  Hiroaki Funayama, Yuichiroh Matsubayashi, Yuya Asazuma, Tomoya Mizumoto and Kentaro Inui. Cross-prompt Pre-finetuning of Language Models for Short Answer Scoring. The International Journal of Artificial Intelligence in Education, 22 pages, July 2025. (DOI: 10.1007/s40593-025-00474-w)
     - [paper](file:///C:/Users/ktasm/Downloads/s40593-025-00474-w%20%281%29.pdf)

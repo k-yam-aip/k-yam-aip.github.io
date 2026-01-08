@@ -1,5 +1,5 @@
 ## Publicatios
-### Journal Paper / 学術論文誌
+#### Journal Paper / 学術論文誌
 
 [International Conferences](./international-conferences) \| **Journal Papers** \| [Awards](./awards) \| [Books](./books) \| [Review Articles](./review-articles) \| [Invited Talks](./invited-talks) \| [Domestic Conferences](./domestic-conferences) \| [Patents](./patents) \| [Media Reports](./media-reports) \| [Miscellanea](./miscellanea)
 

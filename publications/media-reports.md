@@ -1,5 +1,5 @@
 ## Publicatios
-### Media Reports / メディア報道
+#### Media Reports / メディア報道
 
 [International Conferences](./international-conferences) \| [Journal Papers](./journal-papers) \| [Awards](./awards) \| [Books](./books) \| [Review Articles](./review-articles) \| [Invited Talks](./invited-talks) \| [Domestic Conferences](./domestic-conferences) \| [Patents](./patents) \| **Media Reports** \| [Miscellanea](./miscellanea)
 

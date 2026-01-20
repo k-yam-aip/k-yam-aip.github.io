@@ -8,7 +8,6 @@
 - SNSに巣く誤情報を正せない　過ちを認めたくない心理が助長. 日本経済新聞, 2025年5月7日. [link](https://www.nikkei.com/article/DGXZQOSG249CB0U5A120C2000000/)
 - 信じている誤情報の訂正は見たくない？ 名工大など. Science Portal. [link](https://scienceportal.jst.go.)
 - 誤情報信じ続けたい？訂正記事のクリック避ける傾向　名工大など実験. 中日新聞, 2023年6月1日.
-- 情熱ラボ. ミヤギテレビ, 2023年5月31日.
 - 学生がチャットＧＰＴ学ぶ　東北大学でセミナー〈仙台市〉. 仙台放送ニュース, 2023年5月24日.
 - 信じている情報の訂正を避ける傾向、名古屋工業大学など解明. 大学ジャーナル ONLINE, 2023年5月15日. [link](https://univ-journal.jp/223586/)
 - TOHOKU University Researcher in Focus. 東北大学, 2023年5月11日. [link](https://www.tohoku.ac.jp/japanese/2023/05/in-focus-vol023.html)
@@ -16,7 +15,6 @@
 - リアルすぎるAIキャスター 「公募うまくいかず起用」日本では「生成AI」で漫画制作も. テレビ朝日, 2023年5月8日.
 - チャットGPTの活用法や注意点 東北大学大学院乾健太郎教授に聞く. khb東日本放送, 2023年4月27日. [link](https://www.khb-tv.co.jp/news/14895635)
 - 「チャットGPTに仕事を奪われる？」AI研究者に悩みを打ち明けてみたらその答えは？. 河北新報オンライン, 2023年3月31日. [link](https://kahoku.news/articles/20230330khn000026.html)
-- Women with Sparkle!. ALicE, 2023年3月23日. [link](https://alice.eng.tohoku.ac.jp/women/2625.html)
 - キヤノンマーケティングジャパン presents Solution in my life. TOKYO FM, 2022年11月14日.
 - 人の会話が理解できるAIをつくる. 理化学研究所クローズアップ科学道, 2022年9月20日.
 - 人間とAIが協調して記述式答案自動採点の品質を保証、東北大学が枠組み構築. 大学ジャーナル, 2022年9月6日.
